@@ -1,0 +1,11 @@
+<!doctype>
+<html>
+<head>
+<title>asd</title>
+</head>
+<body>
+<script>
+var d = new Date();
+</script>
+</body>
+</html>
